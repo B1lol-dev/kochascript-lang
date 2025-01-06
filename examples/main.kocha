@@ -1,0 +1,3 @@
+aylana(davay i = 0; i<=100; i++){
+    korsat("PULIMMI QACHON BERASAN?")
+}
