@@ -167,4 +167,4 @@ Licenziya blmima lekn barbr nmadur yoqib qoyaman MIT. [LICENSE](LICENSE) bla-bla
 
 ### Repository
 
-https://github.com/B1lol-dev/kochascript
+https://github.com/B1lol-dev/kochascript-lang
