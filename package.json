@@ -1,6 +1,6 @@
 {
   "name": "kochascript-lang",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "./scripts/index.js",
   "bin": {
     "kocha": "./src/index.js"
