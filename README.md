@@ -5,19 +5,13 @@ KochaScript — Dasturlashdan Chiqila
 ### Ornatw
 
 1. Szga [Node.js](https://nodejs.org/) kere boladi.
-2. install it globally:
+2. globallniy yuklavolin:
 
    ```bash
-   npm install kochascript -g
+   npm install kochascript-lang -g
    ```
 
-3. Install required dependencies:
-
-   ```bash
-   npm install
-   ```
-
-4. or Install kochascript just for your project:
+3. yoki kochscript ti faqat ozissi proyektizga qowin:
    ```bash
    npm install kochascript
    ```
